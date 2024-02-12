@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Self-Introduction</title>
+  <style>
+    /* Your CSS styles will go here */
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Yiwei Chen</h1>
+    <h2>相亲委员</h2>
+    <a href="https://weibo.com/7868727651/5000619938546228">
+  </header>
+
+  <section id="about-me">
+    <h3>About Me</h3>
+    <p>I'm Yiwei Chen, I have many ggs. </p>
+  </section>
+
+  <section id="education">
+    <h3>Senior high school</h3>
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <!-- Add more items as needed -->
+    </ul>
+  </section>
+
+  <section id="work-experience">
+    <h3>Work Experience</h3>
+    <ul>
+      <li>
+        <h4>Wenbo Senior High School</h4>
+        <p>A student in Class 5, Senior 1</p>
+      </li>
+      <!-- Add more job entries as needed -->
+    </ul>
+  </section>
+
+  <section id="skills">
+    <h3>Skills and Expertise</h3>
+    <ul>
+      <li>相亲</li>
+      <!-- Add more skills as needed -->
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h3>No</h3>
+    <ul>
+      <li>
+        <h4>Project Name</h4>
+        <p>A brief description of the project.</p>
+        <a href="project-link">Link to Project</a>
+      </li>
+      <!-- Add more project entries as needed -->
+    </ul>
+  </section>
+
+  <footer>
+    <h3>Contact Information</h3>
+    <p>Email: No</p>
+    <p>Phone: 13559126724/p>
+    <!-- Add social media links, if desired -->
+  </footer>
+</body>
+</html>
